@@ -1,10 +1,3 @@
----
-highlighter: none
-#layout: default
-layout: file_avail
-title: Managing Large Data in HTC Jobs
----
-
 1. Prepare input files for hosting in `/staging`.
    
 &nbsp;&nbsp;&nbsp;&nbsp;- Compress files to reduce file size and speed up 
